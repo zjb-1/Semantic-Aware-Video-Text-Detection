@@ -1,1 +1,1 @@
-CUDA_VISIBLE_DEVICES=6,7 /lustre/home/jbzhang/experiment/Swin-Track/tools/dist_train.sh mask_track_rcnn_r50_fpn.py 2
+CUDA_VISIBLE_DEVICES=6,7 ./tools/dist_train.sh mask_track_rcnn_r50_fpn.py 2

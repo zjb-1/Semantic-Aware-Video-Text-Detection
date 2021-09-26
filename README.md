@@ -40,8 +40,8 @@ If you need a pre-trained model or a trained model, you can contact me.
 
 - The video datasets format is as follows:
 
+  ```
   dataset
-
   ├─Video1
   │    ├─1.jpg
   │    ├─1.txt
@@ -55,8 +55,7 @@ If you need a pre-trained model or a trained model, you can contact me.
   │    ├─2.txt
   │    └─...
   ├─ ...    
-
-  
+  ```
 
   The txt file format is as follows(Coordinate points arranged clockwise, text, id):
 
